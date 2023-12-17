@@ -19,7 +19,7 @@ const Navbar = () => {
           <a href="https://www.linkedin.com/in/richa-gupta-395b03203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
             <img src="/linkedin.png" alt="" />
           </a>
-          <a href="https://www.instagram.com/servicing_strategist?utm_source=qr&igshid=YTlmZjI0ZWMzOA==">
+          <a href="https://www.instagram.com/richa_g16?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==">
             <img src="/instagram.png" alt="" />
           </a>
           <a href="https://github.com/richa1604">
